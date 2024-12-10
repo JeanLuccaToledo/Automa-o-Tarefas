@@ -29,6 +29,7 @@ def renomear_arquivos(diretorio, padrao, extensao):
     except Exception as e:
         print(f"Erro: {e}")
 
+# Caso queira executar o Script individualmente
 renomear_arquivos(
     diretorio = r"\Users\jean0\Desktop\Projetos\Python\Projeto2\TESTES",           # Substitua pelo caminho correto
     padrao="correto",                                                              # O nome base que você quer
