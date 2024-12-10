@@ -29,7 +29,7 @@ def organizar_por_extensao(diretorio):
     except Exception as e:
         print(f"Erro: {e}")
 
-# Chamada do script
+# Caso queira executar o Script individualmente
 organizar_por_extensao(
     diretorio=r"C:\Users\jean0\Desktop\Projetos\Python\Projeto2\TESTES"  # Caminho
 )
