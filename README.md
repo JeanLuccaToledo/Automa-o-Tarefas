@@ -4,6 +4,10 @@ O **Projeto de Automação de Arquivos** é uma ferramenta desenvolvida em Pytho
 
 Essa solução é útil para quem lida com grandes volumes de arquivos e precisa automatizar tarefas repetitivas, otimizando o tempo e garantindo uma organização consistente.
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/fe4a3bb8-956c-4070-8de1-cb71ebf8f690" alt="Imagem" />
+</div>
+
 ---
 
 ### **Funcionalidades**
